@@ -42,3 +42,13 @@
 </div>
 
 ###
+
+<h3 align="left">Visitor Count</h3>
+
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/yigitucun/count.svg?"  />
+</div>
+
+###
