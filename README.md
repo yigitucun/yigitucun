@@ -52,3 +52,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/yigitucun/yigitucun/output/snake.svg" alt="Snake animation" />
+
+###
