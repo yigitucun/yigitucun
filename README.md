@@ -29,5 +29,6 @@ Building systems, not just scripts.
 <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="grpc" width="40" height="40"/>&nbsp;
 <img src="https://images.icon-icons.com/2699/PNG/512/grafana_logo_icon_171048.png" alt="grafana" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40"/>&nbsp;
 </p>
 
