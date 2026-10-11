@@ -22,7 +22,7 @@ Building systems, not just scripts.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
-<img src="https://images.icon-icons.com/2248/PNG/512/apache_kafka_icon_138937.png" alt="kafka" width="40" height="40"/>&nbsp;
+<img src="https://devicons.io/devicons/icons/kafka-icon.svg" alt="kafka" width="40" height="40"/>&nbsp;
 <img src="https://devicons.io/devicons/icons/argo-icon.svg" alt="argocd" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
 <img src="https://images.icon-icons.com/2108/PNG/512/gradle_icon_130917.png" alt="gradle" width="40" height="40"/>&nbsp;
